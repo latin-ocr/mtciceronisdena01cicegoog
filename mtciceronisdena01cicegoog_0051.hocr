@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtciceronisdena01cicegoog_0051.png"; bbox 0 0 2055 3052; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 406 92 1653 192">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 406 92 1653 192">
+     <span class='ocr_line' id='line_1_1' title="bbox 406 92 1653 192; baseline 0.005 -6"><span class='ocrx_word' id='word_1_1' title='bbox 406 92 1300 192; x_wconf 52' lang='grc' dir='ltr'><strong>πωηεσηῑηωσῑ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1419 135 1439 161; x_wconf 65' lang='grc'><strong>’-</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1556 133 1653 192; x_wconf 66' lang='grc' dir='ltr'><strong>ωι</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 135 2521 1651 2593">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 135 2521 1651 2593">
+     <span class='ocr_line' id='line_1_2' title="bbox 135 2521 1651 2593; baseline 0.001 -18"><span class='ocrx_word' id='word_1_4' title='bbox 135 2524 215 2575; x_wconf 71' lang='lat' dir='ltr'><strong>mia</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 247 2521 366 2573; x_wconf 66' lang='lat' dir='ltr'><strong>sunt</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 401 2524 591 2589; x_wconf 65' lang='lat' dir='ltr'><strong>patria</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 617 2521 969 2589; x_wconf 55' lang='lat' dir='ltr'><strong>Dmodrffiqss</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 998 2521 1520 2593; x_wconf 44' lang='lat' dir='ltr'><strong>wsmvnmhbcfinu</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1541 2525 1651 2577; x_wconf 66' lang='lat' dir='ltr'><strong>du.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 135 2585 1758 2660">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 135 2585 1758 2660">
+     <span class='ocr_line' id='line_1_3' title="bbox 135 2585 1758 2660; baseline 0 -17"><span class='ocrx_word' id='word_1_10' title='bbox 135 2585 417 2653; x_wconf 48' lang='lat' dir='ltr'><strong>orzi-itam.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 445 2592 603 2653; x_wconf 62' lang='lat' dir='ltr'><strong>Quis</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 631 2594 1257 2660; x_wconf 46' lang='lat' dir='ltr'><strong>enimduttsffmwgim‘</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1275 2591 1650 2657; x_wconf 59' lang='lat' dir='ltr'><strong>mmpiehmm</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1753 2598 1758 2607; x_wconf 94' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 137 2657 1647 2735">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 137 2657 1647 2735">
+     <span class='ocr_line' id='line_1_4' title="bbox 137 2657 1647 2735; baseline -0.001 -19"><span class='ocrx_word' id='word_1_15' title='bbox 137 2678 166 2716; x_wconf 81' lang='lat' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_16' title='bbox 188 2660 1070 2735; x_wconf 59' lang='lat' dir='ltr'><strong>animo·p³ote⁸t³.qnistumimdt</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1097 2661 1339 2732; x_wconf 59' lang='lat' dir='ltr'><strong>quisunt</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1360 2657 1647 2717; x_wconf 60' lang='lat' dir='ltr'><strong>camunti</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
